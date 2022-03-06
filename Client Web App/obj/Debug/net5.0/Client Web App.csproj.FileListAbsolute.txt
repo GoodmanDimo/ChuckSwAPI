@@ -1,0 +1,38 @@
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\appsettings.json
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.exe
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.deps.json
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.runtimeconfig.json
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.runtimeconfig.dev.json
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.dll
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\ref\Client Web App.dll
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.pdb
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.Views.dll
+C:\Users\tshep\source\repos\Client Web App\bin\Debug\net5.0\Client Web App.Views.pdb
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.csproj.AssemblyReference.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.AssemblyInfoInputs.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.AssemblyInfo.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.csproj.CoreCompileInputs.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.RazorAssemblyInfo.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.RazorAssemblyInfo.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\staticwebassets\Client Web App.StaticWebAssets.Manifest.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\staticwebassets\Client Web App.StaticWebAssets.xml
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\scopedcss\bundle\Client Web App.styles.css
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.TagHelpers.input.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.TagHelpers.output.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.RazorCoreGenerate.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.RazorTargetAssemblyInfo.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.RazorTargetAssemblyInfo.cs
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.Views.pdb
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.dll
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\ref\Client Web App.dll
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.pdb
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.genruntimeconfig.cache
+C:\Users\tshep\source\repos\Client Web App\obj\Debug\net5.0\Client Web App.csproj.CopyComplete

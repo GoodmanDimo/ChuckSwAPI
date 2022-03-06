@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckSwAPI", "ChuckSwAPI.csproj", "{B8CFC739-B8EF-4AFB-AEA4-8BAE58814045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8CFC739-B8EF-4AFB-AEA4-8BAE58814045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CFC739-B8EF-4AFB-AEA4-8BAE58814045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CFC739-B8EF-4AFB-AEA4-8BAE58814045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CFC739-B8EF-4AFB-AEA4-8BAE58814045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3FF6130-B0F5-43F1-89E1-36FC6F9F55D6}
+	EndGlobalSection
+EndGlobal

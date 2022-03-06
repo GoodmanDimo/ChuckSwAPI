@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+
+    <form>
+        <formbody>
+            <div id="searchForm"></div>
+            <br />
+
+            <div id="ViewPeople"></div>
+   
+            <div id="ViewCategories"></div>
+            <br />
+
+            <div id="searchResults">
+                <table id="SearchResultsDisplay" border="1" cellpadding="2">
+                    <tr>
+                        <td><b>API</b></td>
+                        <td><b>Results</b></td>
+                    </tr>
+                </table>
+            </div>
+
+                <div class="page">
+                    <table id="categoryTableData" border="1" cellpadding="2" style="align-self:flex-start">
+                        <tr>
+                            <td><b>Category</b></td>
+                            <td><b>#</b></td>
+                        </tr>
+                    </table>
+                </div>
+
+                  <br />
+                <table id="peopleTableView" border="1" cellpadding="2">
+                    <tr>
+                        <td><b>Name</b></td>
+                        <td><b>BirthYear</b></td>
+                        <td><b>HomeWorld</b></td>
+                        <td><b>Url</b></td>
+                    </tr>
+                </table>
+
+                <div id="Jokes"></div>
+
+        </formbody>
+    </form>
+
+    <script src="js/FetchAPIdata.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        document.getElementById("peopleTableView").style.display = "none";
+        document.getElementById("ViewCategories").style.display = "none";
+        document.getElementById("searchResults").style.display = "none";
+        FetchCategories();
+        FetchPeople();
+        createButtons();
+    </script>
+</div>
